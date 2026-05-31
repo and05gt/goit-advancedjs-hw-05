@@ -1,0 +1,23 @@
+{
+  "name": "goit-advancedjs-hw-05",
+  "version": "1.0.0",
+  "description": "Introduction to TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/and05gt/goit-advancedjs-hw-05.git"
+  },
+  "keywords": [],
+  "author": "Andrii D. <and05gt@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/and05gt/goit-advancedjs-hw-05/issues"
+  },
+  "homepage": "https://github.com/and05gt/goit-advancedjs-hw-05#readme",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.6"
+  }
+}
